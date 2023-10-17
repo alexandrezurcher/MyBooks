@@ -6,3 +6,4 @@ psycopg2-binary
 pytz==2021.1
 sqlparse==0.4.1
 crispy_bootstrap5
+tzdata==2023.3
